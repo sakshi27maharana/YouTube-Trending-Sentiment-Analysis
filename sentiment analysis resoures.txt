@@ -1,0 +1,11 @@
+SENTIMENT ANALYSIS
+
+https://monkeylearn.com/blog/sentiment-analysis-machine-learning/
+
+https://towardsdatascience.com/social-media-sentiment-analysis-part-ii-bcacca5aaa39
+
+https://www.kdnuggets.com/2018/03/5-things-sentiment-analysis-classification.html
+
+https://www.kaggle.com/ankkur13/sentiment-analysis-nlp-wordcloud-textblob
+
+https://realpython.com/sentiment-analysis-python/
